@@ -4,6 +4,9 @@ Deskripsi Singkat:
 
 Ini adalah program Java sederhana yang memungkinkan Anda mengelola daftar tugas. Anda dapat menambahkan, mengedit, dan menghapus tugas dari daftar.
 
+## Kontributors
+[https://github.com/anisaayu05/TaskManager/edit/main/README.md]
+
 ## Cara Menjalankan Program:
 
 1. Pastikan Anda memiliki IntelliJ IDEA atau IDE Java lainnya terinstal di komputer Anda.
@@ -55,7 +58,7 @@ Terima kasih telah menggunakan TaskManager!
 
 ## Kontribusi:
 
-Kontribusi dan perbaikan sambutan. Silakan buat pull request jika Anda ingin berkontribusi pada proyek ini.
+Kontribusi dan perbaikan program. Silakan buat pull request jika Anda ingin berkontribusi pada proyek ini.
 
 ## Lisensi:
 
